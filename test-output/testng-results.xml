@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-17T22:26:58 IST" name="Default suite" finished-at="2023-06-17T22:27:26 IST" duration-ms="28287">
+    <groups>
+    </groups>
+    <test started-at="2023-06-17T22:26:58 IST" name="Default test" finished-at="2023-06-17T22:27:26 IST" duration-ms="28287">
+      <class name="com.justdial.qa.testcases.WashingServiceResultsTestPage">
+        <test-method is-config="true" signature="reportCreation()[pri:0, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:26:58 IST" name="reportCreation" finished-at="2023-06-17T22:26:58 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportCreation -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:26:58 IST" name="setUp" finished-at="2023-06-17T22:27:08 IST" duration-ms="10467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invokeHomePageActions()[pri:0, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:08 IST" name="invokeHomePageActions" finished-at="2023-06-17T22:27:13 IST" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeHomePageActions -->
+        <test-method signature="titleValidationWashingServicesTestCase()[pri:1, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:13 IST" name="titleValidationWashingServicesTestCase" finished-at="2023-06-17T22:27:15 IST" duration-ms="1460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidationWashingServicesTestCase -->
+        <test-method signature="resultHeaderTextDisplayTest()[pri:2, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:15 IST" name="resultHeaderTextDisplayTest" finished-at="2023-06-17T22:27:15 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultHeaderTextDisplayTest -->
+        <test-method signature="topRatedButtonIsDisplayedTest()[pri:3, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:15 IST" name="topRatedButtonIsDisplayedTest" finished-at="2023-06-17T22:27:15 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topRatedButtonIsDisplayedTest -->
+        <test-method signature="topRatedButtonIsClickableTest()[pri:4, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:15 IST" name="topRatedButtonIsClickableTest" finished-at="2023-06-17T22:27:15 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topRatedButtonIsClickableTest -->
+        <test-method signature="displayListOfTop5CarWashingServices()[pri:5, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:15 IST" name="displayListOfTop5CarWashingServices" finished-at="2023-06-17T22:27:18 IST" duration-ms="2696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayListOfTop5CarWashingServices -->
+        <test-method signature="navigateBack()[pri:6, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:18 IST" name="navigateBack" finished-at="2023-06-17T22:27:25 IST" duration-ms="7752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:25 IST" name="tearDown" finished-at="2023-06-17T22:27:26 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:com.justdial.qa.testcases.WashingServiceResultsTestPage@6913c1fb]" started-at="2023-06-17T22:27:26 IST" name="reportFlush" finished-at="2023-06-17T22:27:26 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- com.justdial.qa.testcases.WashingServiceResultsTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

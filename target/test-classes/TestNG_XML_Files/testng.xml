@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Justdial Automation Smoke Testing">
+  <test thread-count="5" name="All Test Cases">
+    <classes>
+      <class name="com.justdial.qa.testcases.homePageTestCases"/>
+      <class name="com.justdial.qa.testcases.WashingServiceResultsTestPage"/>
+      <class name="com.justdial.qa.testcases.FreeListingTestCases"/>
+      <class name="com.justdial.qa.testcases.GymListingTestCases"/>
+    </classes>
+  </test> <!-- All Test Cases -->
+</suite> <!-- Justdial Automation Smoke Testing -->

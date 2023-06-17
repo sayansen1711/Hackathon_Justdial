@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Justdial Automation Smoke Testing]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="All Test Cases(failed)">
+    <classes>
+      <class name="com.justdial.qa.testcases.WashingServiceResultsTestPage">
+        <methods>
+          <include name="navigateBack"/>
+          <include name="resultHeaderTextDisplayTest"/>
+          <include name="topRatedButtonIsClickableTest"/>
+          <include name="tearDown"/>
+          <include name="displayListOfTop5CarWashingServices"/>
+          <include name="topRatedButtonIsDisplayedTest"/>
+          <include name="reportCreation"/>
+          <include name="setUp"/>
+          <include name="titleValidationWashingServicesTestCase"/>
+          <include name="reportFlush"/>
+          <include name="invokeHomePageActions"/>
+        </methods>
+      </class> <!-- com.justdial.qa.testcases.WashingServiceResultsTestPage -->
+    </classes>
+  </test> <!-- All Test Cases(failed) -->
+</suite> <!-- Failed suite [Justdial Automation Smoke Testing] -->

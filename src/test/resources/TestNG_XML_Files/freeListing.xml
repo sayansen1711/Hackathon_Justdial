@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Justdial Free Listing Automation">
+  <test thread-count="5" name="Free Listing Page Test Cases">
+    <classes>
+      <class name="com.justdial.qa.testcases.FreeListingTestCases"/>
+    </classes>
+  </test> <!-- Free Listing Page Test Cases -->
+</suite> <!-- Justdial Free Listing Automation -->
