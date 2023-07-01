@@ -62,3 +62,43 @@ Project Structure:
 4. Observe the output from IDE console
 
 # N.B.: Download and setup Java latest version first
+
+# Console Output: #
+******************************
+The Top 5 Car services are : 
+	1. Fast Car Solutions|Rating:4.8|Public Rating: 1131
+	| Phone Number: 09606247339 |
+	2. H2O Carwash & Detailing Studio|Rating:4.5|Public Rating: 149
+	| Phone Number: 09035837210 |
+	3. Fusion Automotives|Rating:4.7|Public Rating: 146
+	| Phone Number: 09606204240 |
+	4. Motohub|Rating:4.0|Public Rating: 73
+	| Phone Number: 09606180997 |
+******************************
+	**Error Message for All Null Values: City is blank
+	**Error Message for Invalid City Value: Please select Proper City from list
+	**Error Message for Company Name Null Value: Company name is blank
+	** Alert Text => blank Mobile number: Please enter mobile number or landline number
+	**Error Message for City Field As Null: City is blank
+	**Error Message for Invalid Mobile Number: Contact number can contain numbers only
+ 
+*******************
+List of all Gym Details:
+
+	1. Fitnet Near Biryani Hut Block GB14 Block BE Sector B East Kolkata Township, kolkata | 495 Ratings | 4.4
+	2. Fitness Capital Unisex Ac Multigym Indian Overseas Bank Panchasayar, kolkata | 6 Ratings | 4.8
+	3. The Calcutta Fitness Studio Plus  Naktala, kolkata | 714 Ratings | 4.7
+	4. Raipur Club Near Ramgarh Bus Stand Garia, Kolkata | 583 Ratings | 4.3
+	5. Fitness Factory Beside Shahid Kudiram Metro Station Garia, Kolkata | 459 Ratings | 3.9
+	6. Fitness Galaxy Beside Garia Railway Station Garia, Kolkata | 375 Ratings | 4.1
+	7. Crossfit Fitness Studio Boral Kamdahari, kolkata | 278 Ratings | 5.0
+	8. Kross 9 Gym  Kamdahari, kolkata | 283 Ratings | 4.5
+	9. Life & Fitness Gym Near Bansdroni Metro Naktala, Kolkata | 318 Ratings | 4.8
+	10. FITNET Near Pallysree Jadavpur, kolkata | 16 Ratings | 4.9
+
+*******************
+
+===============================================
+Justdial Automation Smoke Testing
+Total tests run: 34, Passes: 34, Failures: 0, Skips: 0
+===============================================
