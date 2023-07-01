@@ -1,7 +1,7 @@
 # Project Title: Identify Car Washing Services #
 
 # Problem Statement #
-Display 5 Car washing services name and phone  numbers
+Display 5 Car washing services names and phone  numbers
 1. Car washing services near you with highest rating on top.
 2. Rating should be more than 4*
 3. Customer Votes should be more than 20.
@@ -16,7 +16,7 @@ Display 5 Car washing services name and phone  numbers
  # Key Automation Scope #
  1. Handling alert, search option
  2. Multuiple navigation path for one page
- 3. Filling form ( in differtent objects in web page)
+ 3. Filling form ( in different objects in webpage)
  4. Capture warning message
  5. Extract menu items & store in collections
  6. Navigating back to home page
@@ -60,5 +60,5 @@ Project Structure:
 2. Update the project using the pom.xml file to download the necessary dependencies.
 3. From src/test/resources/TestNG_XML_Files location run the testng.xml file as TestNG Suite
 4. Observe the output from IDE console
-N.B.: Download and setup Java latest version first
-1. Import the maven project
+
+# N.B.: Download and setup Java latest version first
